@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!
+I am a software developer mainly using C/C++, Java, and Python. For now, I work mainly on private personal projects and work for university.
+
 
 <!--
 **qyptn/qyptn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
